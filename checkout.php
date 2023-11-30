@@ -96,7 +96,7 @@ if(isset($_POST['order'])){
       </div>
 
       <h3>place your orders</h3>
-      <h3>Prompt Pay:0000000000</h3>
+      <h3>Prompt Pay:0817435581</h3>
 
       <div class="flex">
          <div class="inputBox">
